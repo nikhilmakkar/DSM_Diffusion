@@ -1,0 +1,6 @@
+name: indiana
+disp_name: indiana_val
+dir: indiana.tar
+filenames: data_split/indiana/indiana_val.txt
+# kitti_bm_crop: true
+# valid_mask_crop: eigen

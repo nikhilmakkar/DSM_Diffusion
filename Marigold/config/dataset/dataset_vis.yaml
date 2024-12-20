@@ -1,0 +1,19 @@
+dataset:
+  # vis:
+  # - name: hypersim
+  #   disp_name: hypersim_vis
+  #   dir: hypersim/hypersim_processed_val.tar
+  #   filenames: data_split/hypersim/selected_vis_sample.txt
+  #   resize_to_hw:
+  #   - 480
+  #   - 640
+  
+  vis:
+  - name: indiana
+    disp_name: indiana
+    dir: indiana.tar
+    filenames: data_split/indiana/indiana_val.txt
+    resize_to_hw:
+    - 512
+    - 512
+

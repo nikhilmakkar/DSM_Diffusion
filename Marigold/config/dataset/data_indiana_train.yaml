@@ -1,0 +1,6 @@
+name: indiana
+disp_name: indiana_train
+dir: indiana.tar
+filenames: data_split/indiana/indiana_train.txt
+# kitti_bm_crop: true
+# valid_mask_crop: null  # no valid_mask_crop for training
